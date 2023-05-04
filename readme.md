@@ -9,5 +9,7 @@
 
 Tests
 How do you run tests?
-1- cd test
-2- pytest
+
+ 1- cd test
+
+ 2- pytest
